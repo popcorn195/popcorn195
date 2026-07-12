@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-* Programming Languages : C • C++ • Java • JavaScript • Python • MATLAB • SQL
+* Programming Languages : C • C++ • Java • JavaScript • Python • SQL
 
 * Web Development : HTML5 • CSS3 • React • Node.js • Express.js
 
@@ -31,7 +31,7 @@
 
 * AI / Machine Learning : NumPy • Pandas • Scikit-learn
 
-* Tools & Technologies : Git • GitHub • VS Code • Postman
+* Tools & Technologies : Git • GitHub • VS Code • Postman • MATLAB
   
 <br>
 
